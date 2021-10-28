@@ -1,0 +1,117 @@
+start
+clear all
+start
+students_my_class = 70
+
+students_my_class =
+
+    70
+
+commandwndow
+{Unrecognized function or variable 'commandwndow'.
+} 
+commandwindow
+commandwindow
+5/9
+
+ans =
+
+    0.5556
+
+long(ans)
+{Unrecognized function or variable 'long'.
+} 
+log(ans)
+
+ans =
+
+   -0.5878
+
+format long
+5/7
+
+ans =
+
+   0.714285714285714
+
+project
+
+z
+
+z =
+
+   0.015679442508711
+
+clc
+project
+z
+
+z =
+
+   1.5679e-02
+
+a
+{Unrecognized function or variable 'a'.
+} 
+clc
+symbolc_varables
+{Unrecognized function or variable 'symbolc_varables'.
+} 
+symbolc_variables
+y
+{Unrecognized function or variable 'y'.
+} 
+
+x
+ 
+x =
+ 
+4/9
+ 
+syms y
+y = sym(y)
+ 
+y =
+ 
+y
+ 
+y = 5/7
+
+y =
+
+   7.1429e-01
+
+syms y
+clc
+clear al
+clear all
+symbolc_variables
+x
+ 
+x =
+ 
+4/9
+ 
+symbolc_variables
+y
+ 
+y =
+ 
+16/81
+ 
+symbolc_variables
+area
+ 
+area =
+ 
+(25*pi)/49
+ 
+pretty(ans)
+{Attempt to execute SCRIPT ans as a function:
+G:\MATLAB\toolbox\matlab\lang\ans.m
+} 
+pretty(area)
+25 pi
+-----
+  49
+
